@@ -3,7 +3,7 @@ module github.com/tiantour/adapter
 go 1.19
 
 require (
-	github.com/tiantour/protector v0.0.2
+	github.com/tiantour/protector v0.0.3
 	google.golang.org/grpc v1.48.0
 )
 
@@ -20,7 +20,7 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.17.0 // indirect
-	golang.org/x/net v0.0.0-20220809184613-07c6da5e1ced // indirect
+	golang.org/x/net v0.0.0-20220812174116-3211cb980234 // indirect
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
